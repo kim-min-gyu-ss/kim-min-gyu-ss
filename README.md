@@ -4,7 +4,6 @@
 - 📫 contact  -> melon212@naver.com or rrrr3321@gmail.com
 
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
